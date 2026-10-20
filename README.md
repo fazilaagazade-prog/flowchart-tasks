@@ -7,5 +7,3 @@
 ![Log in on the site](flowcharts/login.png)
 ### Movie ticket
 ![Movie ticket](flowcharts/ticket.png)
-### FizzBuzz
-![FizzBuzz](flowcharts/fizzbuzz.png)
