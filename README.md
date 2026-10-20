@@ -1,11 +1,11 @@
-﻿# Flowchart Tasks
+# Flowchart Tasks
 ### Morning
-! [Morning] (Morning.drawio.png)
+![Morning] (flowcharts/morning.png)
 ### Morning Routine Update
-! [Morning Routine Update] (Morning Routine Update.drawio)
+![Morning Routine Update] (flowcharts/morning.png)
 ### Log in on the site
-! [Log in on the site] (Log in on the site.drawio)
+![Log in on the site] (flowcharts/login.png)
 ### Movie ticket
-! [Movie ticket] (Movie ticket.drawio)
+![Movie ticket] (flowcharts/ticket.png)
 ### FizzBuzz
-! [FizzBuzz] (FizzBuzz.drawio)
+![FizzBuzz] (flowcharts/fizzbuzz.png)
